@@ -1,4 +1,5 @@
 * text=auto !eol
 /apertium-pl-sk.pl-sk.dix -text
+/apertium-pl-sk.post-sk.dix -text
 /apertium-pl-sk.sk.dix -text
 /incubator.gnumeric -text
