@@ -7,14 +7,19 @@
 /README -text
 /apertium-pl-sk.pl-sk.dix -text
 /apertium-pl-sk.pl-sk.t1x -text
+/apertium-pl-sk.pl-sk.t2x -text
+/apertium-pl-sk.pl-sk.t3x -text
 /apertium-pl-sk.pl.dix -text
 /apertium-pl-sk.pl.tsx -text
 /apertium-pl-sk.post-pl.dix -text
 /apertium-pl-sk.post-sk.dix -text
 /apertium-pl-sk.sk-pl.t1x -text
+/apertium-pl-sk.sk-pl.t2x -text
+/apertium-pl-sk.sk-pl.t3x -text
 /apertium-pl-sk.sk.dix -text
 /apertium-pl-sk.sk.tsx -text
 /configure.ac -text
 /incubator.gnumeric -text
+/modes.xml -text
 /pl-sk.prob -text svneol=unset#unset
 /sk-pl.prob -text svneol=unset#unset
