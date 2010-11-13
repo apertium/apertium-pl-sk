@@ -20,6 +20,7 @@
 /apertium-pl-sk.sk.tsx -text
 /configure.ac -text
 dev/lt2speling.pl -text
+dev/sk-nouns.dix -text
 /incubator.gnumeric -text
 /modes.xml -text
 /pl-sk.prob -text svneol=unset#unset
