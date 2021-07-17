@@ -18,3 +18,8 @@
 /config.in
 /config
 /*.prob
+/*.hfst
+/*.zhfst
+/.DS_Store
+/test/*-output.txt
+/stamp-h1

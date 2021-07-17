@@ -1,0 +1,118 @@
+[1FZNPJQbQ7hI#0] ^*My$ ^*jedziemy$ ^*samochodem$^@.<sent>$
+[/1FZNPJQbQ7hI]
+[1U4wy0wUkkFt#0] ^*Nowszy$ ^*piłkarz$
+[/1U4wy0wUkkFt]
+[2PYlLOIbvUat#0] ^*Najnowszy$ ^*piłkarz$
+[/2PYlLOIbvUat]
+[2ukTBsd2-F1C#0] ^*Tak$
+[/2ukTBsd2-F1C]
+[2yBgrlpd0gO1#0] ^*Dziękuję$
+[/2yBgrlpd0gO1]
+[50i-egwt-q38#0] ^*Wy$ ^*jesteście$ ^*ludźmi$^@.<sent>$
+[/50i-egwt-q38]
+[6DLbNVpdfU9s#0] ^@Dziesiąty<det><ord><mp><sg><nom>$ ^*gracz$
+[/6DLbNVpdfU9s]
+[6pEky-6yhTVP#0] ^*Przyglądam$ ^*się$ ^*budynkowi$^@.<sent>$
+[/6pEky-6yhTVP]
+[8cSp8Dhuej-1#0] ^*Kupiłbym$ ^*książkę$^@.<sent>$
+[/8cSp8Dhuej-1]
+[8fm0tLo9Rsnp#0] ^*Ty$ ^*jesteś$ ^*człowiekiem$^@.<sent>$
+[/8fm0tLo9Rsnp]
+[9dfqb7B8tRtX#0] ^@Piąty<det><ord><mp><sg><nom>$ ^*gracz$
+[/9dfqb7B8tRtX]
+[BoH-llFrANLR#0] ^*Sześć$ ^*psów$
+[/BoH-llFrANLR]
+[DWUFh8HRQ1Oe#0] ^Veľmi<adv><sint><sup>$ ^*kolorowa$ ^*książka$
+[/DWUFh8HRQ1Oe]
+[FcsJvNUxNoOo#0] ^*Przepraszam$
+[/FcsJvNUxNoOo]
+[IjwXyQf9_UBm#0] ^*Dwadzieścia$ ^*psów$
+[/IjwXyQf9_UBm]
+[JMVUnUR27V5O#0] ^*Tutaj$ ^*powstaje$ ^*budynek$^@.<sent>$
+[/JMVUnUR27V5O]
+[JPCAojDKgaIy#0] ^*Cztery$ ^*psy$
+[/JPCAojDKgaIy]
+[JZ5sHhc6bRpr#0] ^*Jeden$ ^*pies$
+[/JZ5sHhc6bRpr]
+[JtQGq8cYl8t9#0] ^*On$ ^*powinien$ ^*kupić$ ^*samochód$
+[/JtQGq8cYl8t9]
+[N0I4326Rdy8S#0] ^*Tam$ ^*widzę$ ^*budynek$^@.<sent>$
+[/N0I4326Rdy8S]
+[OMJBCETKzqvo#0] ^*Pięć$ ^*psów$
+[/OMJBCETKzqvo]
+[PvGeh05WQrAB#0] ^@jej<det><pos><sp>$ ^*dom$
+[/PvGeh05WQrAB]
+[RS27P8OGuPua#0] ^*To$ ^*jest$ ^@jej<det><pos><sp>$ ^*dom$^@.<sent>$
+[/RS27P8OGuPua]
+[RYDrD22Lsgle#0] ^*On$ ^*jest$ ^*człowiekiem$^@.<sent>$
+[/RYDrD22Lsgle]
+[SXWk_ABtFK-0#0] ^Druhý<det><ord><nt><sg><acc>$ ^*gracz$
+[/SXWk_ABtFK-0]
+[Sdu1cPMYnbYa#0] ^*On$ ^*budował$ ^*zamki$^@.<sent>$
+[/Sdu1cPMYnbYa]
+[UkV4Im554Y-3#0] ^Do<pr>$ ^*widzenia$
+[/UkV4Im554Y-3]
+[UyOpxzjAGt0W#0] ^*Dzień$ ^dobrý<adj><sint><mp><sg><nom>$
+[/UyOpxzjAGt0W]
+[WXX0N7kYTLaC#0] ^*To$ ^*jest$ ^@ich<det><pos><sp>$ ^*dom$^@.<sent>$
+[/WXX0N7kYTLaC]
+[Wa6ullDxtJ_t#0] ^*Dziesięć$ ^*psów$
+[/Wa6ullDxtJ_t]
+[YOOIxD4T3Pi2#0] ^*Stoję$ ^*przy$ ^*budynku$^@.<sent>$
+[/YOOIxD4T3Pi2]
+[YSRmcJd59P-L#0] ^*To$ ^*jest$ ^*nasz$ ^*dom$^@.<sent>$
+[/YSRmcJd59P-L]
+[Z-O1USQtlTD7#0] ^*Pięćdziesiąt$ ^*psów$
+[/Z-O1USQtlTD7]
+[_UcUUfGLJxwR#0] ^*Kolorowa$ ^*książka$
+[/_UcUUfGLJxwR]
+[bLtpq6W-dJny#0] ^*Dwa$ ^*psy$
+[/bLtpq6W-dJny]
+[c5JzNYmr-m6r#0] ^*Nowy$ ^*piłkarz$
+[/c5JzNYmr-m6r]
+[cDKOX6elblXp#0] ^@Trzeci<det><ord><mp><sg><nom>$ ^*gracz$
+[/cDKOX6elblXp]
+[cHLSMdgVJXTu#0] ^*To$ ^*jest$ ^*twój$ ^*dom$^@.<sent>$
+[/cHLSMdgVJXTu]
+[d1--P0gv-caJ#0] ^@jej<det><pos><sp>$ ^*dziecko$
+[/d1--P0gv-caJ]
+[f_fP0u1WYLPF#0] ^*Sto$ ^*psów$
+[/f_fP0u1WYLPF]
+[h1fl_MTxS60V#0] ^Dobrý<adj><sint><mp><sg><nom>$ ^*wieczór$
+[/h1fl_MTxS60V]
+[hWSgnK3TUdNw#0] ^Prvý<det><ord><mp><sg><nom>$ ^*gracz$
+[/hWSgnK3TUdNw]
+[i401uqRmC48b#0] ^*Dziewięć$ ^*psów$
+[/i401uqRmC48b]
+[i8of3qHp8wjP#0] ^*Osiem$ ^*psów$
+[/i8of3qHp8wjP]
+[jmEMp6Lo5Jn6#0] ^*Ja$ ^*jestem$ ^*człowiekiem$^@.<sent>$
+[/jmEMp6Lo5Jn6]
+[k-dZMaIIy4-h#0] ^*Ona$ ^*powinna$ ^*być$ ^*aktorką$
+[/k-dZMaIIy4-h]
+[mnFoe41icWdU#0] ^*My$ ^*jesteśmy$ ^*ludźmi$^@.<sent>$
+[/mnFoe41icWdU]
+[nyl4GCzAfENI#0] ^*Proszę$
+[/nyl4GCzAfENI]
+[ofRYPu5pgI_R#0] ^*Oni$ ^*są$ ^*ludźmi$^@.<sent>$
+[/ofRYPu5pgI_R]
+[ogjGp2T0mXvt#0] ^*Trzy$ ^*psy$
+[/ogjGp2T0mXvt]
+[p3bZJBiREfwF#0] ^*Rozmawiam$ ^o<pr>$ ^*budynku$^@.<sent>$
+[/p3bZJBiREfwF]
+[tzjBA2Nuka44#0] ^Veľmi<adv><sint><comp>$ ^*kolorowa$ ^*książka$
+[/tzjBA2Nuka44]
+[vrQwn4cV9PHG#0] ^@jej<det><pos><sp>$ ^matka<n><f><sg><nom>$
+[/vrQwn4cV9PHG]
+[w4gRpYpLd3so#0] ^*Nie$
+[/w4gRpYpLd3so]
+[xV3GdDMFDa3t#0] ^*To$ ^*jest$ ^*wasz$ ^*dom$^@.<sent>$
+[/xV3GdDMFDa3t]
+[xh2iPzAiOCkT#0] ^*Siedem$ ^*psów$
+[/xh2iPzAiOCkT]
+[yDMD5SwmYtR7#0] ^*To$ ^*jest$ ^*mój$ ^*dom$^@.<sent>$
+[/yDMD5SwmYtR7]
+[yMIPrNmEuGrT#0] ^*Tam$ ^*nie$ ^*ma$ ^*budynku$^@.<sent>$
+[/yMIPrNmEuGrT]
+[yZ88Ao6inE-s#0] ^*To$ ^*jest$ ^@jego<det><pos><sp>$ ^*dom$^@.<sent>$
+[/yZ88Ao6inE-s]

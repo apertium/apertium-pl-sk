@@ -1,0 +1,59 @@
+Ja jestem człowiekiem.
+Ty jesteś człowiekiem.
+On jest człowiekiem.
+My jesteśmy ludźmi.
+Wy jesteście ludźmi.
+Oni są ludźmi.
+To jest mój dom.
+To jest twój dom.
+To jest jego dom.
+To jest jej dom.
+To jest nasz dom.
+To jest wasz dom.
+To jest ich dom.
+jej dom
+jej matka
+jej dziecko
+My jedziemy samochodem.
+On budował zamki.
+Kupiłbym książkę.
+Tutaj powstaje budynek.
+Tam nie ma budynku.
+Przyglądam się budynkowi.
+Tam widzę budynek.
+Stoję przy budynku.
+Rozmawiam o budynku.
+Nowy piłkarz
+Nowszy piłkarz
+Najnowszy piłkarz
+Kolorowa książka
+Bardziej kolorowa książka
+Najbardziej kolorowa książka
+Jeden pies
+Dwa psy
+Trzy psy
+Cztery psy
+Pięć psów
+Sześć psów
+Siedem psów
+Osiem psów
+Dziewięć psów
+Dziesięć psów
+Dwadzieścia psów
+Pięćdziesiąt psów
+Sto psów
+Pierwszy gracz
+Drugi gracz
+Trzeci gracz
+Piąty gracz
+Dziesiąty gracz
+Proszę
+Dziękuję
+Przepraszam
+Dzień dobry
+Dobry wieczór
+Do widzenia
+Tak
+Nie
+On powinien kupić samochód
+Ona powinna być aktorką

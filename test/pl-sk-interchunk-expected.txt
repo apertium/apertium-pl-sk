@@ -1,0 +1,118 @@
+[1FZNPJQbQ7hI#0] ^unknown<unknown>{^*My$}$ ^unknown<unknown>{^*jedziemy$}$ ^unknown<unknown>{^*samochodem$}$^default<default>{^@.<sent>$}$
+[/1FZNPJQbQ7hI]
+[1U4wy0wUkkFt#0] ^unknown<unknown>{^*Nowszy$}$ ^unknown<unknown>{^*piłkarz$}$
+[/1U4wy0wUkkFt]
+[2PYlLOIbvUat#0] ^unknown<unknown>{^*Najnowszy$}$ ^unknown<unknown>{^*piłkarz$}$
+[/2PYlLOIbvUat]
+[2ukTBsd2-F1C#0] ^unknown<unknown>{^*Tak$}$
+[/2ukTBsd2-F1C]
+[2yBgrlpd0gO1#0] ^unknown<unknown>{^*Dziękuję$}$
+[/2yBgrlpd0gO1]
+[50i-egwt-q38#0] ^unknown<unknown>{^*Wy$}$ ^unknown<unknown>{^*jesteście$}$ ^unknown<unknown>{^*ludźmi$}$^default<default>{^@.<sent>$}$
+[/50i-egwt-q38]
+[6DLbNVpdfU9s#0] ^default<default>{^@Dziesiąty<det><ord><mp><sg><nom>$}$ ^unknown<unknown>{^*gracz$}$
+[/6DLbNVpdfU9s]
+[6pEky-6yhTVP#0] ^unknown<unknown>{^*Przyglądam$}$ ^unknown<unknown>{^*się$}$ ^unknown<unknown>{^*budynkowi$}$^default<default>{^@.<sent>$}$
+[/6pEky-6yhTVP]
+[8cSp8Dhuej-1#0] ^unknown<unknown>{^*Kupiłbym$}$ ^unknown<unknown>{^*książkę$}$^default<default>{^@.<sent>$}$
+[/8cSp8Dhuej-1]
+[8fm0tLo9Rsnp#0] ^unknown<unknown>{^*Ty$}$ ^unknown<unknown>{^*jesteś$}$ ^unknown<unknown>{^*człowiekiem$}$^default<default>{^@.<sent>$}$
+[/8fm0tLo9Rsnp]
+[9dfqb7B8tRtX#0] ^default<default>{^@Piąty<det><ord><mp><sg><nom>$}$ ^unknown<unknown>{^*gracz$}$
+[/9dfqb7B8tRtX]
+[BoH-llFrANLR#0] ^unknown<unknown>{^*Sześć$}$ ^unknown<unknown>{^*psów$}$
+[/BoH-llFrANLR]
+[DWUFh8HRQ1Oe#0] ^default<default>{^Veľmi<adv><sint><sup>$}$ ^unknown<unknown>{^*kolorowa$}$ ^unknown<unknown>{^*książka$}$
+[/DWUFh8HRQ1Oe]
+[FcsJvNUxNoOo#0] ^unknown<unknown>{^*Przepraszam$}$
+[/FcsJvNUxNoOo]
+[IjwXyQf9_UBm#0] ^unknown<unknown>{^*Dwadzieścia$}$ ^unknown<unknown>{^*psów$}$
+[/IjwXyQf9_UBm]
+[JMVUnUR27V5O#0] ^unknown<unknown>{^*Tutaj$}$ ^unknown<unknown>{^*powstaje$}$ ^unknown<unknown>{^*budynek$}$^default<default>{^@.<sent>$}$
+[/JMVUnUR27V5O]
+[JPCAojDKgaIy#0] ^unknown<unknown>{^*Cztery$}$ ^unknown<unknown>{^*psy$}$
+[/JPCAojDKgaIy]
+[JZ5sHhc6bRpr#0] ^unknown<unknown>{^*Jeden$}$ ^unknown<unknown>{^*pies$}$
+[/JZ5sHhc6bRpr]
+[JtQGq8cYl8t9#0] ^unknown<unknown>{^*On$}$ ^unknown<unknown>{^*powinien$}$ ^unknown<unknown>{^*kupić$}$ ^unknown<unknown>{^*samochód$}$
+[/JtQGq8cYl8t9]
+[N0I4326Rdy8S#0] ^unknown<unknown>{^*Tam$}$ ^unknown<unknown>{^*widzę$}$ ^unknown<unknown>{^*budynek$}$^default<default>{^@.<sent>$}$
+[/N0I4326Rdy8S]
+[OMJBCETKzqvo#0] ^unknown<unknown>{^*Pięć$}$ ^unknown<unknown>{^*psów$}$
+[/OMJBCETKzqvo]
+[PvGeh05WQrAB#0] ^default<default>{^@jej<det><pos><sp>$}$ ^unknown<unknown>{^*dom$}$
+[/PvGeh05WQrAB]
+[RS27P8OGuPua#0] ^unknown<unknown>{^*To$}$ ^unknown<unknown>{^*jest$}$ ^default<default>{^@jej<det><pos><sp>$}$ ^unknown<unknown>{^*dom$}$^default<default>{^@.<sent>$}$
+[/RS27P8OGuPua]
+[RYDrD22Lsgle#0] ^unknown<unknown>{^*On$}$ ^unknown<unknown>{^*jest$}$ ^unknown<unknown>{^*człowiekiem$}$^default<default>{^@.<sent>$}$
+[/RYDrD22Lsgle]
+[SXWk_ABtFK-0#0] ^default<default>{^Druhý<det><ord><nt><sg><acc>$}$ ^unknown<unknown>{^*gracz$}$
+[/SXWk_ABtFK-0]
+[Sdu1cPMYnbYa#0] ^unknown<unknown>{^*On$}$ ^unknown<unknown>{^*budował$}$ ^unknown<unknown>{^*zamki$}$^default<default>{^@.<sent>$}$
+[/Sdu1cPMYnbYa]
+[UkV4Im554Y-3#0] ^default<default>{^Do<pr>$}$ ^unknown<unknown>{^*widzenia$}$
+[/UkV4Im554Y-3]
+[UyOpxzjAGt0W#0] ^unknown<unknown>{^*Dzień$}$ ^adj<SN><mp><sg><nom>{^dobrý<adj><sint><2><3><4>$}$
+[/UyOpxzjAGt0W]
+[WXX0N7kYTLaC#0] ^unknown<unknown>{^*To$}$ ^unknown<unknown>{^*jest$}$ ^default<default>{^@ich<det><pos><sp>$}$ ^unknown<unknown>{^*dom$}$^default<default>{^@.<sent>$}$
+[/WXX0N7kYTLaC]
+[Wa6ullDxtJ_t#0] ^unknown<unknown>{^*Dziesięć$}$ ^unknown<unknown>{^*psów$}$
+[/Wa6ullDxtJ_t]
+[YOOIxD4T3Pi2#0] ^unknown<unknown>{^*Stoję$}$ ^unknown<unknown>{^*przy$}$ ^unknown<unknown>{^*budynku$}$^default<default>{^@.<sent>$}$
+[/YOOIxD4T3Pi2]
+[YSRmcJd59P-L#0] ^unknown<unknown>{^*To$}$ ^unknown<unknown>{^*jest$}$ ^unknown<unknown>{^*nasz$}$ ^unknown<unknown>{^*dom$}$^default<default>{^@.<sent>$}$
+[/YSRmcJd59P-L]
+[Z-O1USQtlTD7#0] ^unknown<unknown>{^*Pięćdziesiąt$}$ ^unknown<unknown>{^*psów$}$
+[/Z-O1USQtlTD7]
+[_UcUUfGLJxwR#0] ^unknown<unknown>{^*Kolorowa$}$ ^unknown<unknown>{^*książka$}$
+[/_UcUUfGLJxwR]
+[bLtpq6W-dJny#0] ^unknown<unknown>{^*Dwa$}$ ^unknown<unknown>{^*psy$}$
+[/bLtpq6W-dJny]
+[c5JzNYmr-m6r#0] ^unknown<unknown>{^*Nowy$}$ ^unknown<unknown>{^*piłkarz$}$
+[/c5JzNYmr-m6r]
+[cDKOX6elblXp#0] ^default<default>{^@Trzeci<det><ord><mp><sg><nom>$}$ ^unknown<unknown>{^*gracz$}$
+[/cDKOX6elblXp]
+[cHLSMdgVJXTu#0] ^unknown<unknown>{^*To$}$ ^unknown<unknown>{^*jest$}$ ^unknown<unknown>{^*twój$}$ ^unknown<unknown>{^*dom$}$^default<default>{^@.<sent>$}$
+[/cHLSMdgVJXTu]
+[d1--P0gv-caJ#0] ^default<default>{^@jej<det><pos><sp>$}$ ^unknown<unknown>{^*dziecko$}$
+[/d1--P0gv-caJ]
+[f_fP0u1WYLPF#0] ^unknown<unknown>{^*Sto$}$ ^unknown<unknown>{^*psów$}$
+[/f_fP0u1WYLPF]
+[h1fl_MTxS60V#0] ^adj<SN><mp><sg><nom>{^Dobrý<adj><sint><2><3><4>$}$ ^unknown<unknown>{^*wieczór$}$
+[/h1fl_MTxS60V]
+[hWSgnK3TUdNw#0] ^default<default>{^Prvý<det><ord><mp><sg><nom>$}$ ^unknown<unknown>{^*gracz$}$
+[/hWSgnK3TUdNw]
+[i401uqRmC48b#0] ^unknown<unknown>{^*Dziewięć$}$ ^unknown<unknown>{^*psów$}$
+[/i401uqRmC48b]
+[i8of3qHp8wjP#0] ^unknown<unknown>{^*Osiem$}$ ^unknown<unknown>{^*psów$}$
+[/i8of3qHp8wjP]
+[jmEMp6Lo5Jn6#0] ^unknown<unknown>{^*Ja$}$ ^unknown<unknown>{^*jestem$}$ ^unknown<unknown>{^*człowiekiem$}$^default<default>{^@.<sent>$}$
+[/jmEMp6Lo5Jn6]
+[k-dZMaIIy4-h#0] ^unknown<unknown>{^*Ona$}$ ^unknown<unknown>{^*powinna$}$ ^unknown<unknown>{^*być$}$ ^unknown<unknown>{^*aktorką$}$
+[/k-dZMaIIy4-h]
+[mnFoe41icWdU#0] ^unknown<unknown>{^*My$}$ ^unknown<unknown>{^*jesteśmy$}$ ^unknown<unknown>{^*ludźmi$}$^default<default>{^@.<sent>$}$
+[/mnFoe41icWdU]
+[nyl4GCzAfENI#0] ^unknown<unknown>{^*Proszę$}$
+[/nyl4GCzAfENI]
+[ofRYPu5pgI_R#0] ^unknown<unknown>{^*Oni$}$ ^unknown<unknown>{^*są$}$ ^unknown<unknown>{^*ludźmi$}$^default<default>{^@.<sent>$}$
+[/ofRYPu5pgI_R]
+[ogjGp2T0mXvt#0] ^unknown<unknown>{^*Trzy$}$ ^unknown<unknown>{^*psy$}$
+[/ogjGp2T0mXvt]
+[p3bZJBiREfwF#0] ^unknown<unknown>{^*Rozmawiam$}$ ^default<default>{^o<pr>$}$ ^unknown<unknown>{^*budynku$}$^default<default>{^@.<sent>$}$
+[/p3bZJBiREfwF]
+[tzjBA2Nuka44#0] ^default<default>{^Veľmi<adv><sint><comp>$}$ ^unknown<unknown>{^*kolorowa$}$ ^unknown<unknown>{^*książka$}$
+[/tzjBA2Nuka44]
+[vrQwn4cV9PHG#0] ^default<default>{^@jej<det><pos><sp>$}$ ^nom<SN><f><sg><nom>{^matka<n><2><3><4>$}$
+[/vrQwn4cV9PHG]
+[w4gRpYpLd3so#0] ^unknown<unknown>{^*Nie$}$
+[/w4gRpYpLd3so]
+[xV3GdDMFDa3t#0] ^unknown<unknown>{^*To$}$ ^unknown<unknown>{^*jest$}$ ^unknown<unknown>{^*wasz$}$ ^unknown<unknown>{^*dom$}$^default<default>{^@.<sent>$}$
+[/xV3GdDMFDa3t]
+[xh2iPzAiOCkT#0] ^unknown<unknown>{^*Siedem$}$ ^unknown<unknown>{^*psów$}$
+[/xh2iPzAiOCkT]
+[yDMD5SwmYtR7#0] ^unknown<unknown>{^*To$}$ ^unknown<unknown>{^*jest$}$ ^unknown<unknown>{^*mój$}$ ^unknown<unknown>{^*dom$}$^default<default>{^@.<sent>$}$
+[/yDMD5SwmYtR7]
+[yMIPrNmEuGrT#0] ^unknown<unknown>{^*Tam$}$ ^unknown<unknown>{^*nie$}$ ^unknown<unknown>{^*ma$}$ ^unknown<unknown>{^*budynku$}$^default<default>{^@.<sent>$}$
+[/yMIPrNmEuGrT]
+[yZ88Ao6inE-s#0] ^unknown<unknown>{^*To$}$ ^unknown<unknown>{^*jest$}$ ^default<default>{^@jego<det><pos><sp>$}$ ^unknown<unknown>{^*dom$}$^default<default>{^@.<sent>$}$
+[/yZ88Ao6inE-s]

@@ -1,0 +1,118 @@
+[1FZNPJQbQ7hI#0] ^My/*My$ ^jedziemy/*jedziemy$ ^samochodem/*samochodem$^./.<sent>$
+[/1FZNPJQbQ7hI]
+[1U4wy0wUkkFt#0] ^Nowszy/*Nowszy$ ^piłkarz/*piłkarz$
+[/1U4wy0wUkkFt]
+[2PYlLOIbvUat#0] ^Najnowszy/*Najnowszy$ ^piłkarz/*piłkarz$
+[/2PYlLOIbvUat]
+[2ukTBsd2-F1C#0] ^Tak/*Tak$
+[/2ukTBsd2-F1C]
+[2yBgrlpd0gO1#0] ^Dziękuję/*Dziękuję$
+[/2yBgrlpd0gO1]
+[50i-egwt-q38#0] ^Wy/*Wy$ ^jesteście/*jesteście$ ^ludźmi/*ludźmi$^./.<sent>$
+[/50i-egwt-q38]
+[6DLbNVpdfU9s#0] ^Dziesiąty/Dziesiąty<det><ord><mp><sg><nom>/Dziesiąty<det><ord><mp><sg><voc>/Dziesiąty<det><ord><ma><sg><nom>/Dziesiąty<det><ord><ma><sg><voc>/Dziesiąty<det><ord><mi><sg><nom>/Dziesiąty<det><ord><mi><sg><acc>/Dziesiąty<det><ord><mi><sg><voc>/Dziesiąty<det><ord><nt><sg><acc>$ ^gracz/*gracz$
+[/6DLbNVpdfU9s]
+[6pEky-6yhTVP#0] ^Przyglądam/*Przyglądam$ ^się/*się$ ^budynkowi/*budynkowi$^./.<sent>$
+[/6pEky-6yhTVP]
+[8cSp8Dhuej-1#0] ^Kupiłbym/*Kupiłbym$ ^książkę/*książkę$^./.<sent>$
+[/8cSp8Dhuej-1]
+[8fm0tLo9Rsnp#0] ^Ty/*Ty$ ^jesteś/*jesteś$ ^człowiekiem/*człowiekiem$^./.<sent>$
+[/8fm0tLo9Rsnp]
+[9dfqb7B8tRtX#0] ^Piąty/Piąty<det><ord><mp><sg><nom>/Piąty<det><ord><mp><sg><voc>/Piąty<det><ord><ma><sg><nom>/Piąty<det><ord><ma><sg><voc>/Piąty<det><ord><mi><sg><nom>/Piąty<det><ord><mi><sg><acc>/Piąty<det><ord><mi><sg><voc>/Piąty<det><ord><nt><sg><acc>$ ^gracz/*gracz$
+[/9dfqb7B8tRtX]
+[BoH-llFrANLR#0] ^Sześć/*Sześć$ ^psów/*psów$
+[/BoH-llFrANLR]
+[DWUFh8HRQ1Oe#0] ^Najbardziej/Bardzo<adv><sint><sup>$ ^kolorowa/*kolorowa$ ^książka/*książka$
+[/DWUFh8HRQ1Oe]
+[FcsJvNUxNoOo#0] ^Przepraszam/*Przepraszam$
+[/FcsJvNUxNoOo]
+[IjwXyQf9_UBm#0] ^Dwadzieścia/*Dwadzieścia$ ^psów/*psów$
+[/IjwXyQf9_UBm]
+[JMVUnUR27V5O#0] ^Tutaj/*Tutaj$ ^powstaje/*powstaje$ ^budynek/*budynek$^./.<sent>$
+[/JMVUnUR27V5O]
+[JPCAojDKgaIy#0] ^Cztery/*Cztery$ ^psy/*psy$
+[/JPCAojDKgaIy]
+[JZ5sHhc6bRpr#0] ^Jeden/*Jeden$ ^pies/*pies$
+[/JZ5sHhc6bRpr]
+[JtQGq8cYl8t9#0] ^On/*On$ ^powinien/*powinien$ ^kupić/*kupić$ ^samochód/*samochód$
+[/JtQGq8cYl8t9]
+[N0I4326Rdy8S#0] ^Tam/*Tam$ ^widzę/*widzę$ ^budynek/*budynek$^./.<sent>$
+[/N0I4326Rdy8S]
+[OMJBCETKzqvo#0] ^Pięć/*Pięć$ ^psów/*psów$
+[/OMJBCETKzqvo]
+[PvGeh05WQrAB#0] ^jej/jej<det><pos><sp>$ ^dom/*dom$
+[/PvGeh05WQrAB]
+[RS27P8OGuPua#0] ^To/*To$ ^jest/*jest$ ^jej/jej<det><pos><sp>$ ^dom/*dom$^./.<sent>$
+[/RS27P8OGuPua]
+[RYDrD22Lsgle#0] ^On/*On$ ^jest/*jest$ ^człowiekiem/*człowiekiem$^./.<sent>$
+[/RYDrD22Lsgle]
+[SXWk_ABtFK-0#0] ^Drugi/Drugi<det><ord><nt><sg><acc>/Drugi<det><ord><mp><sg><nom>/Drugi<det><ord><mp><sg><voc>/Drugi<det><ord><ma><sg><nom>/Drugi<det><ord><ma><sg><voc>/Drugi<det><ord><mi><sg><nom>/Drugi<det><ord><mi><sg><acc>/Drugi<det><ord><mi><sg><voc>$ ^gracz/*gracz$
+[/SXWk_ABtFK-0]
+[Sdu1cPMYnbYa#0] ^On/*On$ ^budował/*budował$ ^zamki/*zamki$^./.<sent>$
+[/Sdu1cPMYnbYa]
+[UkV4Im554Y-3#0] ^Do/Do<pr>$ ^widzenia/*widzenia$
+[/UkV4Im554Y-3]
+[UyOpxzjAGt0W#0] ^Dzień/*Dzień$ ^dobry/dobry<adj><sint><mp><sg><nom>/dobry<adj><sint><mp><sg><voc>/dobry<adj><sint><ma><sg><nom>/dobry<adj><sint><ma><sg><voc>/dobry<adj><sint><mi><sg><nom>/dobry<adj><sint><mi><sg><acc>/dobry<adj><sint><mi><sg><voc>/dobry<adj><sint><nt><sg><acc>$
+[/UyOpxzjAGt0W]
+[WXX0N7kYTLaC#0] ^To/*To$ ^jest/*jest$ ^ich/ich<det><pos><sp>$ ^dom/*dom$^./.<sent>$
+[/WXX0N7kYTLaC]
+[Wa6ullDxtJ_t#0] ^Dziesięć/*Dziesięć$ ^psów/*psów$
+[/Wa6ullDxtJ_t]
+[YOOIxD4T3Pi2#0] ^Stoję/*Stoję$ ^przy/*przy$ ^budynku/*budynku$^./.<sent>$
+[/YOOIxD4T3Pi2]
+[YSRmcJd59P-L#0] ^To/*To$ ^jest/*jest$ ^nasz/*nasz$ ^dom/*dom$^./.<sent>$
+[/YSRmcJd59P-L]
+[Z-O1USQtlTD7#0] ^Pięćdziesiąt/*Pięćdziesiąt$ ^psów/*psów$
+[/Z-O1USQtlTD7]
+[_UcUUfGLJxwR#0] ^Kolorowa/*Kolorowa$ ^książka/*książka$
+[/_UcUUfGLJxwR]
+[bLtpq6W-dJny#0] ^Dwa/*Dwa$ ^psy/*psy$
+[/bLtpq6W-dJny]
+[c5JzNYmr-m6r#0] ^Nowy/*Nowy$ ^piłkarz/*piłkarz$
+[/c5JzNYmr-m6r]
+[cDKOX6elblXp#0] ^Trzeci/Trzeci<det><ord><mp><sg><nom>/Trzeci<det><ord><mp><sg><voc>/Trzeci<det><ord><mp><pl><nom>/Trzeci<det><ord><mp><pl><voc>/Trzeci<det><ord><ma><sg><nom>/Trzeci<det><ord><ma><sg><voc>/Trzeci<det><ord><mi><sg><nom>/Trzeci<det><ord><mi><sg><acc>/Trzeci<det><ord><mi><sg><voc>/Trzeci<det><ord><nt><sg><acc>$ ^gracz/*gracz$
+[/cDKOX6elblXp]
+[cHLSMdgVJXTu#0] ^To/*To$ ^jest/*jest$ ^twój/*twój$ ^dom/*dom$^./.<sent>$
+[/cHLSMdgVJXTu]
+[d1--P0gv-caJ#0] ^jej/jej<det><pos><sp>$ ^dziecko/*dziecko$
+[/d1--P0gv-caJ]
+[f_fP0u1WYLPF#0] ^Sto/*Sto$ ^psów/*psów$
+[/f_fP0u1WYLPF]
+[h1fl_MTxS60V#0] ^Dobry/Dobry<adj><sint><mp><sg><nom>/Dobry<adj><sint><mp><sg><voc>/Dobry<adj><sint><ma><sg><nom>/Dobry<adj><sint><ma><sg><voc>/Dobry<adj><sint><mi><sg><nom>/Dobry<adj><sint><mi><sg><acc>/Dobry<adj><sint><mi><sg><voc>/Dobry<adj><sint><nt><sg><acc>$ ^wieczór/*wieczór$
+[/h1fl_MTxS60V]
+[hWSgnK3TUdNw#0] ^Pierwszy/Pierwszy<det><ord><mp><sg><nom>/Pierwszy<det><ord><mp><sg><voc>/Pierwszy<det><ord><ma><sg><nom>/Pierwszy<det><ord><ma><sg><voc>/Pierwszy<det><ord><mi><sg><nom>/Pierwszy<det><ord><mi><sg><acc>/Pierwszy<det><ord><mi><sg><voc>/Pierwszy<det><ord><nt><sg><acc>$ ^gracz/*gracz$
+[/hWSgnK3TUdNw]
+[i401uqRmC48b#0] ^Dziewięć/*Dziewięć$ ^psów/*psów$
+[/i401uqRmC48b]
+[i8of3qHp8wjP#0] ^Osiem/*Osiem$ ^psów/*psów$
+[/i8of3qHp8wjP]
+[jmEMp6Lo5Jn6#0] ^Ja/*Ja$ ^jestem/*jestem$ ^człowiekiem/*człowiekiem$^./.<sent>$
+[/jmEMp6Lo5Jn6]
+[k-dZMaIIy4-h#0] ^Ona/*Ona$ ^powinna/*powinna$ ^być/*być$ ^aktorką/*aktorką$
+[/k-dZMaIIy4-h]
+[mnFoe41icWdU#0] ^My/*My$ ^jesteśmy/*jesteśmy$ ^ludźmi/*ludźmi$^./.<sent>$
+[/mnFoe41icWdU]
+[nyl4GCzAfENI#0] ^Proszę/*Proszę$
+[/nyl4GCzAfENI]
+[ofRYPu5pgI_R#0] ^Oni/*Oni$ ^są/*są$ ^ludźmi/*ludźmi$^./.<sent>$
+[/ofRYPu5pgI_R]
+[ogjGp2T0mXvt#0] ^Trzy/*Trzy$ ^psy/*psy$
+[/ogjGp2T0mXvt]
+[p3bZJBiREfwF#0] ^Rozmawiam/*Rozmawiam$ ^o/o<pr>$ ^budynku/*budynku$^./.<sent>$
+[/p3bZJBiREfwF]
+[tzjBA2Nuka44#0] ^Bardziej/Bardzo<adv><sint><comp>$ ^kolorowa/*kolorowa$ ^książka/*książka$
+[/tzjBA2Nuka44]
+[vrQwn4cV9PHG#0] ^jej/jej<det><pos><sp>$ ^matka/matka<n><f><sg><nom>$
+[/vrQwn4cV9PHG]
+[w4gRpYpLd3so#0] ^Nie/*Nie$
+[/w4gRpYpLd3so]
+[xV3GdDMFDa3t#0] ^To/*To$ ^jest/*jest$ ^wasz/*wasz$ ^dom/*dom$^./.<sent>$
+[/xV3GdDMFDa3t]
+[xh2iPzAiOCkT#0] ^Siedem/*Siedem$ ^psów/*psów$
+[/xh2iPzAiOCkT]
+[yDMD5SwmYtR7#0] ^To/*To$ ^jest/*jest$ ^mój/*mój$ ^dom/*dom$^./.<sent>$
+[/yDMD5SwmYtR7]
+[yMIPrNmEuGrT#0] ^Tam/*Tam$ ^nie/*nie$ ^ma/*ma$ ^budynku/*budynku$^./.<sent>$
+[/yMIPrNmEuGrT]
+[yZ88Ao6inE-s#0] ^To/*To$ ^jest/*jest$ ^jego/jego<det><pos><sp>$ ^dom/*dom$^./.<sent>$
+[/yZ88Ao6inE-s]

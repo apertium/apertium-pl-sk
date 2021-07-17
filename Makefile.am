@@ -82,22 +82,17 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 clean-dicts:
 	touch $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG2).dix $(BASENAME).$(PREFIX1).dix
 	rm $(BASENAME).$(LANG1).dix
-	
+
 apertium_pl_skmodesdir=$(prefix)/share/apertium/modes/
 apertium_pl_skdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_pl_sk_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
-                    $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
-                    $(PREFIX1).autogen.bin \
+apertium_pl_sk_DATA=$(TARGETS_COMMON) \
                     $(PREFIX1).prob $(PREFIX2).prob \
-		    $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-		    $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
 		    $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(BASENAME).$(PREFIX1).t3x\
-		    $(BASENAME).$(PREFIX2).t1x $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX2).t3x\
-		    $(PREFIX2).autopgen.bin
+		    $(BASENAME).$(PREFIX2).t1x $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX2).t3x
 
 install-data-local: install-modes
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_pl_skdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(BASENAME).$(PREFIX2).t2x $(DESTDIR)$(apertium_pl_skdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t3x $(DESTDIR)$(apertium_pl_skdir)
 
 CLEANFILES = -r $(TARGETS_COMMON) 
+
+test: all
+	apertium-regtest test
